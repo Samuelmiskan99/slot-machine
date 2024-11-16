@@ -15,7 +15,7 @@ Ensure you have Python installed on your system.
 ### Installation
 ### Clone the repository:
 ```
-git clone [https://github.com/yourusername/slotmachine.git](https://github.com/Samuelmiskan99/slot-machine.git)  
+git clone https://github.com/Samuelmiskan99/slot-machine.git 
 cd slot-machine
 ```
 ### Run the slot machine game:

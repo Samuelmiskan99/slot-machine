@@ -22,7 +22,7 @@ cd slot-machine
 ```
 python main.py
 ```
-###🕹️ How to Play
+### 🕹️ How to Play
 Start with an initial balance (e.g., 100 coins).
 Place your bet for each spin.
 Spin the reels and see the result.
@@ -32,7 +32,9 @@ Keep playing until you're out of coins or decide to cash out.
 
 ### 🎉 Winning Combinations
 Symbols	Outcome	Payout
+```
 🍒 🍒 🍒	Triple Cherries	3x Bet
 🍋 🍋 🍋	Triple Lemons	2x Bet
 🍇 🍇 🍇	Triple Grapes	5x Bet
 ⭐ ⭐ ⭐	Triple Stars (JACKPOT!)	10x Bet
+```
